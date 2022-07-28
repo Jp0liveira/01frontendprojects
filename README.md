@@ -5,7 +5,8 @@
 </div>
 <br/>
 <div align= center>
-<a href="https://jp0liveira.github.io/01frontendprojects/" target = "_blank"><img src="https://user-images.githubusercontent.com/106454449/181385855-358ba244-486d-4752-b439-ef30d7ce4bf9.png" alt="imagemprojetohtmlandcss"></a>
+<a href="https://jp0liveira.github.io/01frontendprojects/" target = "_blank"><img src="https://user-images.githubusercontent.com/106454449/181394161-432cdc6a-dac1-4809-9627-2df8a4bc29af.PNG" alt="imagemprojetohtmlandcss"></a>
+<a href="https://jp0liveira.github.io/01frontendprojects/" target = "_blank"><img src="https://user-images.githubusercontent.com/106454449/181394153-b0c6ace7-87c5-41ab-ab88-fa255798f95e.PNG"></a>
 <figcaption style="text-align: center">Project using only HTML and CSS </figcaption>
 </div>
 <br>
